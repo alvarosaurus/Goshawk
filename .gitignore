@@ -1,2 +1,9 @@
 .spyproject
 __pycache__
+.jupyter/
+.local/
+data/dbextension/
+.cache
+.ipython
+.ipynb_checkpoints/
+data/workspace.json
