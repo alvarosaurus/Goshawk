@@ -7,3 +7,4 @@ data/dbextension/
 .ipython
 .ipynb_checkpoints/
 data/workspace.json
+*.mp3
