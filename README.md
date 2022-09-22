@@ -14,7 +14,7 @@ Clone the project. Start the containers by calling `docker-compose up -d`.
 
 The Jupyter Notebooks can be found at: `http://localhost:8888`
 
-OpenRefine can be found at: `http://localhost:3333`
+OpenRefine is commented-out in docker-compose.yml. If enabled, it can be found at: `http://localhost:3333`
 
 ## What's included in the Dockerfile
 
