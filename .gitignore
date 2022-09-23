@@ -8,3 +8,5 @@ data/dbextension/
 .ipynb_checkpoints/
 data/workspace.json
 *.mp3
+*.wav
+
